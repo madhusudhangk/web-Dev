@@ -1,2 +1,2 @@
 # web-Dev
-Learning the full tack
+Learning the full stack
